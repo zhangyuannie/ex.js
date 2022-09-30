@@ -1,0 +1,7 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "main": "ex.js",
+  "type": "module",
+  "license": "MIT"
+}
